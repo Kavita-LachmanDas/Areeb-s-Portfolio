@@ -2,7 +2,7 @@
 
 "use client";
 import Image from 'next/image';
-import { BsFacebook, BsGithub, BsLinkedin, BsTwitter } from 'react-icons/bs';
+import { BsFacebook,  BsLinkedin, BsTwitter } from 'react-icons/bs';
 import Link from 'next/link';
 
 export default function Hero() {

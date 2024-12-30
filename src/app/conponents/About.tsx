@@ -54,10 +54,10 @@ export default function About() {
               About Me
             </h1>
             <p className="leading-relaxed text-lg text-gray-300">
-              With years of experience in e-commerce and digital marketing, I specialize in creating tailored strategies that empower businesses to thrive in today’s competitive online landscape. My expertise lies in understanding your unique goals and crafting personalized approaches to achieve them.
+              With years of experience in e-commerce and digital marketing, I specialize in creating tailored strategies that empower businesses to thrive in today&apos;s competitive online landscape. My expertise lies in understanding your unique goals and crafting personalized approaches to achieve them.
             </p>
             <p className="leading-relaxed text-lg text-gray-300 mt-4">
-              By leveraging data-driven insights and innovative solutions, I can help your business not only boost sales but also enhance visibility and build a strong online presence. Whether it's optimizing your marketing campaigns, streamlining your e-commerce operations, or driving meaningful engagement with your audience, I’m here to guide your business towards sustainable growth and long-term success.
+              By leveraging data-driven insights and innovative solutions, I can help your business not only boost sales but also enhance visibility and build a strong online presence. Whether it&apos;s optimizing your marketing campaigns, streamlining your e-commerce operations, or driving meaningful engagement with your audience, I&apos;m here to guide your business towards sustainable growth and long-term success.
             </p>
             <div className="flex justify-center mt-10">
               <Link href="https://drive.google.com/file/d/1j-iaIbyVHGhTCv8LVDFkk47CM75VBvmM/view?usp=sharing">

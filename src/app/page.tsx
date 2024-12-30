@@ -1,5 +1,5 @@
 import React from 'react'
-import Header from './conponents/Header'
+
 import Hero from './conponents/Hero'
 import About from './conponents/About'
 import Service from './conponents/Service'
@@ -10,7 +10,7 @@ import Contact from './conponents/Contact'
 export default function page() {
   return (
     <div>
-      {/* <Header/> */}
+      
       <Hero/>
       <About/>
       <Service/>
